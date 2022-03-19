@@ -9,6 +9,12 @@ A modular Telegram group management bot running with Python based on [Pyrogram](
 
 Can be found on Telegram as [Anjani](https://t.me/dAnjani_bot).
 
+Deploy to Heroku with button
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/gymariq22/UserIndoBot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank" /></a></p>
+
+[Deploy to heroku with github actions](https://github.com/gymariq22/Anjani/blob/sql-extended/helper.md)
+
 
 ## Requirements
 
